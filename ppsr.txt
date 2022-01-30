@@ -1,0 +1,176 @@
+MEASURES
+1                           Country Pressure_Score
+2                            Region Pressure_Score
+3                          DataYear Pressure_Score
+4                        ClassGrade Pressure_Score
+5                            Gender Pressure_Score
+6                          Ageyears Pressure_Score
+7                            Handed Pressure_Score
+8                         Height_cm Pressure_Score
+9                     Footlength_cm Pressure_Score
+10                       Armspan_cm Pressure_Score
+11                 Languages_spoken Pressure_Score
+12            Travel_time_to_School Pressure_Score
+13                    Reaction_time Pressure_Score
+14             Score_in_memory_game Pressure_Score
+15    Importance_reducing_pollution Pressure_Score
+16     Importance_recycling_rubbish Pressure_Score
+17      Importance_conserving_water Pressure_Score
+18         Importance_saving_energy Pressure_Score
+19       Importance_owning_computer Pressure_Score
+20       Importance_Internet_access Pressure_Score
+21               Left_Footlength_cm Pressure_Score
+22                      Longer_foot Pressure_Score
+23            Index_Fingerlength_mm Pressure_Score
+24             Ring_Fingerlength_mm Pressure_Score
+25           Longer_Finger_Lefthand Pressure_Score
+26                      Birth_month Pressure_Score
+27                  Favorite_Season Pressure_Score
+28                        Allergies Pressure_Score
+29                       Vegetarian Pressure_Score
+30          Favorite_School_Subject Pressure_Score
+31          Sleep_Hours_Schoolnight Pressure_Score
+32      Sleep_Hours_Non_Schoolnight Pressure_Score
+33                   Home_Occupants Pressure_Score
+34             Home_Internet_Access Pressure_Score
+35       Communication_With_Friends Pressure_Score
+36     Text_Messages_Sent_Yesterday Pressure_Score
+37 Text_Messages_Received_Yesterday Pressure_Score
+38   Hanging_Out_With_Friends_Hours Pressure_Score
+39           Talking_On_Phone_Hours Pressure_Score
+40             Doing_Homework_Hours Pressure_Score
+41   Doing_Things_With_Family_Hours Pressure_Score
+42         Outdoor_Activities_Hours Pressure_Score
+43                Video_Games_Hours Pressure_Score
+44            Social_Websites_Hours Pressure_Score
+45          Texting_Messaging_Hours Pressure_Score
+46               Computer_Use_Hours Pressure_Score
+47                Watching_TV_Hours Pressure_Score
+48                  Paid_Work_Hours Pressure_Score
+49               Work_At_Home_Hours Pressure_Score
+50              Schoolwork_Pressure Pressure_Score
+51                   Pressure_Score Pressure_Score
+52          Planned_Education_Level Pressure_Score
+53                   Favorite_Music Pressure_Score
+54                       Superpower Pressure_Score
+55                 Preferred_Status Pressure_Score
+56                  Role_Model_Type Pressure_Score
+57                 Charity_Donation Pressure_Score
+SCORES
+                         result_type          pps metric baseline_score
+1              predictor is constant 0.0000000000   <NA>             NA
+2              predictor is constant 0.0000000000   <NA>             NA
+3             predictive power score 0.0160269425    MAE      0.6585843
+4             predictive power score 0.0000000000    MAE      0.6585843
+5             predictive power score 0.0681991272    MAE      0.6585843
+6             predictive power score 0.0181545381    MAE      0.6585843
+7             predictive power score 0.0000000000    MAE      0.6628655
+8             predictive power score 0.0577926680    MAE      0.6579182
+9             predictive power score 0.0019015440    MAE      0.6552775
+10            predictive power score 0.0490180775    MAE      0.6610909
+11            predictive power score 0.0017542500    MAE      0.6586738
+12            predictive power score 0.0025435293    MAE      0.6585843
+13            predictive power score 0.0078159191    MAE      0.6571680
+14            predictive power score 0.0265145829    MAE      0.6581854
+15            predictive power score 0.0363331268    MAE      0.6529915
+16            predictive power score 0.0034232101    MAE      0.6529915
+17            predictive power score 0.0049003915    MAE      0.6529915
+18            predictive power score 0.0082087839    MAE      0.6381440
+19            predictive power score 0.0130736052    MAE      0.6529915
+20            predictive power score 0.0169669616    MAE      0.6529915
+21            predictive power score 0.0176995298    MAE      0.6609432
+22            predictive power score 0.0000000000    MAE      0.6580793
+23            predictive power score 0.0149342971    MAE      0.6570677
+24            predictive power score 0.0139685734    MAE      0.6570677
+25            predictive power score 0.0071964872    MAE      0.6538847
+26            predictive power score 0.0183710462    MAE      0.6588920
+27            predictive power score 0.0135935212    MAE      0.6588920
+28            predictive power score 0.0030223315    MAE      0.6588920
+29            predictive power score 0.0000000000    MAE      0.6569601
+30            predictive power score 0.0541127774    MAE      0.6586698
+31            predictive power score 0.0454361826    MAE      0.6531042
+32            predictive power score 0.0000000000    MAE      0.6588920
+33            predictive power score 0.0000000000    MAE      0.6578549
+34            predictive power score 0.0000000000    MAE      0.6468104
+35            predictive power score 0.0104541758    MAE      0.6601228
+36            predictive power score 0.0183537222    MAE      0.6585693
+37            predictive power score 0.0626784506    MAE      0.6585693
+38            predictive power score 0.0067346922    MAE      0.6490707
+39            predictive power score 0.0047337543    MAE      0.6608810
+40            predictive power score 0.0841166107    MAE      0.6650358
+41            predictive power score 0.0109082074    MAE      0.6567883
+42            predictive power score 0.0019142370    MAE      0.6567883
+43            predictive power score 0.0665401135    MAE      0.6368512
+44            predictive power score 0.0237113122    MAE      0.6454256
+45            predictive power score 0.0360866731    MAE      0.6552976
+46            predictive power score 0.0129810469    MAE      0.6584484
+47            predictive power score 0.0000000000    MAE      0.6628872
+48            predictive power score 0.0087179128    MAE      0.6608810
+49            predictive power score 0.0216299801    MAE      0.6567883
+50            predictive power score 0.9309653841    MAE      0.6585843
+51 predictor and target are the same 1.0000000000   <NA>             NA
+52            predictive power score 0.0061824005    MAE      0.6425241
+53            predictive power score 0.0169235318    MAE      0.6425955
+54            predictive power score 0.0002544189    MAE      0.6442666
+55            predictive power score 0.0000000000    MAE      0.6425955
+56            predictive power score 0.0298879622    MAE      0.6165671
+57            predictive power score 0.0288553469    MAE      0.6301118
+DETAILS
+   model_score cv_folds seed algorithm model_type
+1           NA       NA   NA      <NA>       <NA>
+2           NA       NA   NA      <NA>       <NA>
+3   0.65991265        5    1      tree regression
+4   0.66763526        5    1      tree regression
+5   0.61386250        5    1      tree regression
+6   0.65662869        5    1      tree regression
+7   0.67055820        5    1      tree regression
+8   0.62968943        5    1      tree regression
+9   0.68069590        5    1      tree regression
+10  0.64897170        5    1      tree regression
+11  0.66002369        5    1      tree regression
+12  0.66821343        5    1      tree regression
+13  0.70051411        5    1      tree regression
+14  0.64923572        5    1      tree regression
+15  0.63550457        5    1      tree regression
+16  0.69966793        5    1      tree regression
+17  0.65987921        5    1      tree regression
+18  0.66180051        5    1      tree regression
+19  0.66432908        5    1      tree regression
+20  0.64961188        5    1      tree regression
+21  0.65027992        5    1      tree regression
+22  0.67145703        5    1      tree regression
+23  0.65576706        5    1      tree regression
+24  0.65969510        5    1      tree regression
+25  0.65533065        5    1      tree regression
+26  0.64931579        5    1      tree regression
+27  0.65038906        5    1      tree regression
+28  0.65704884        5    1      tree regression
+29  0.65696009        5    1      tree regression
+30  0.65360533        5    1      tree regression
+31  0.63002372        5    1      tree regression
+32  0.66204196        5    1      tree regression
+33  0.66195171        5    1      tree regression
+34  0.65514372        5    1      tree regression
+35  0.66017467        5    1      tree regression
+36  0.66533977        5    1      tree regression
+37  0.61520542        5    1      tree regression
+38  0.64831160        5    1      tree regression
+39  0.66752802        5    1      tree regression
+40  0.60966308        5    1      tree regression
+41  0.66126304        5    1      tree regression
+42  0.66234300        5    1      tree regression
+43  0.59642654        5    1      tree regression
+44  0.65482725        5    1      tree regression
+45  0.63323045        5    1      tree regression
+46  0.65872175        5    1      tree regression
+47  0.67460218        5    1      tree regression
+48  0.66047864        5    1      tree regression
+49  0.64934307        5    1      tree regression
+50  0.04674145        5    1      tree regression
+51          NA       NA   NA      <NA>       <NA>
+52  0.64873080        5    1      tree regression
+53  0.63837179        5    1      tree regression
+54  0.65110470        5    1      tree regression
+55  0.64897296        5    1      tree regression
+56  0.60607935        5    1      tree regression
+57  0.61576776        5    1      tree regression
